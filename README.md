@@ -43,7 +43,7 @@ The dataset contains 21 features and one target (`Churn`). Key features include:
 
 ## Results
 
-* **Random Forest Accuracy**: \~92%
+* **Random Forest Accuracy**: \~89%
 * **Top Predictive Features**: Contract Type, Tenure, Number of Complaints, Data Usage, and Monthly Charges
 * **ROC-AUC Score**: 0.93
 
